@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 173, 205);
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    background-image: linear-gradient(rgb(245, 91, 117), rgb(255, 123, 0));
+}
+
+#principal{
+    width: 90%;
+    height: 800px;
+    background-color: rgb(255, 170, 215);
+    margin: auto;
+    background-image: url("https://i.pinimg.com/originals/f0/ae/8b/f0ae8bc86ab9b5459880ea9e8894774d.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#secundario{
+    width: 90%;
+    height: 2000px;
+    background-color: rgb(255, 170, 215);
+    margin: auto;
+    background-image: url("https://i.pinimg.com/originals/f0/ae/8b/f0ae8bc86ab9b5459880ea9e8894774d.gif");
+    background-repeat: repeat-x;
+    background-position: center;
+    background-size: auto;
+    background-attachment: fixed;
+}
